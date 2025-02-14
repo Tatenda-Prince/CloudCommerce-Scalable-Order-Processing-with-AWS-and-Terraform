@@ -174,7 +174,7 @@ Where `event.json` contains:
 
 3.Amazon SNS
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/365de738a282a6a3f9c3d36acbe11406c01aeb8e/img/Screenshot%202025-02-14%20110211.png)
 
 
 
