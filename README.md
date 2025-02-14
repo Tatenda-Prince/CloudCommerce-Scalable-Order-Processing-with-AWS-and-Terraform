@@ -125,7 +125,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.4.In the AWS Management Console, head to the Amazon DynamoDB dashboard and verify that the Order Table was successfully created
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/3a7752bbe939f7cbbe0c5b928b08471b7d5e3964/img/Screenshot%202025-02-14%20101455.png)
 
 
 3.5.In the AWS Management Console, head to the Amazon SNS dashboard and verify that the Order Topic was successfully created and head to your local email and confirm the subscription
