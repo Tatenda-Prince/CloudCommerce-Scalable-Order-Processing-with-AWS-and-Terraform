@@ -60,7 +60,7 @@ git clone https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Process
 2.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
 
 ```language
-Terraform init`
+Terraform init
 ```
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
@@ -71,7 +71,7 @@ Upon completion of the initialization process, a successful prompt will be displ
 2.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
 
 ```language
-Terraform validate`
+Terraform validate
 ```
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
@@ -81,7 +81,7 @@ The command should generate a success message, confirming that it is valid, as d
 2.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
 
 ```language
-Terraform plan`
+Terraform plan
 ```
 
 ![image_alt]()
@@ -93,7 +93,7 @@ The list of changes that Terraform is anticipated to apply to the infrastructure
 Note — Make sure to type “yes” to agree to the changes after running this command
 
 ```language
-Terraform apply`
+Terraform apply
 ```
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
