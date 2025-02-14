@@ -115,7 +115,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.2.In the AWS Management Console, head to the Amazon SQS dashboard and verify that the OrderQueue was successfully created.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/0fbaaa2fbde6c7648cafe40faa09c7c2990a1dc3/img/Screenshot%202025-02-14%20101332.png)
 
 
 3.3.In the AWS Management Console, head to the Amazon Lambda dashboard and verify that the Order Function was successfully created
