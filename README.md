@@ -97,7 +97,7 @@ Terraform apply
 ```
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/3561aeffb1fc58fd0ba21dafac0015d9d8bd0940/img/Screenshot%202025-02-14%20100704.png)
 
 ## Success!
 
