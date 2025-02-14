@@ -51,13 +51,17 @@ CloudCommerce is a serverless, event-driven order processing system built using 
 
 1.1.Clone this repository to your local machine
 
-`git clone https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform.git`
+```language
+git clone https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform.git
+```
 
 ## Step : Run Terraform workflow to initialize, validate, plan then apply
 
 2.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
 
-`Terraform init`
+```language
+Terraform init`
+```
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
 
@@ -66,8 +70,9 @@ Upon completion of the initialization process, a successful prompt will be displ
 
 2.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
 
-`Terraform validate`
-
+```language
+Terraform validate`
+```
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
 
@@ -75,7 +80,9 @@ The command should generate a success message, confirming that it is valid, as d
 
 2.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
 
-`Terraform plan`
+```language
+Terraform plan`
+```
 
 ![image_alt]()
 
@@ -85,8 +92,9 @@ The list of changes that Terraform is anticipated to apply to the infrastructure
 
 Note — Make sure to type “yes” to agree to the changes after running this command
 
-`Terraform apply`
-
+```language
+Terraform apply`
+```
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
 ![image_alt]()
