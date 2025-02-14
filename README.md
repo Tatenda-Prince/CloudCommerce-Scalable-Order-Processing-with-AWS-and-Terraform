@@ -47,6 +47,12 @@ CloudCommerce is a serverless, event-driven order processing system built using 
 
 3.Terraform installed on your local machine
 
+## Step 1: Clone the Repository
+
+1.1.Clone this repository to your local machine
+
+
+
 
 
 
