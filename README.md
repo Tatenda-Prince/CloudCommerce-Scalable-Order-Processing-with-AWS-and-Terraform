@@ -65,7 +65,7 @@ Terraform init
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/a930cd342016696264f9831307589c7d0fe77b2e/img/Screenshot%202025-02-14%20100443.png)
 
 
 2.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
