@@ -180,7 +180,7 @@ Where `event.json` contains:
 
 4.CloudWatchLogs 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/1830296da7928a0b258a61e969f77926f58f3ee5/img/Screenshot%202025-02-14%20110148.png)
 
 
 
