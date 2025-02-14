@@ -162,7 +162,7 @@ Where `event.json` contains:
 
 1.DynamoBD Table 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/c5b236ed85a787e14a80275601c14de00a4563c2/img/Screenshot%202025-02-14%20105858.png)
 
 
 
