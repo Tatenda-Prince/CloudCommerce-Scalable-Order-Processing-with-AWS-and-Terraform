@@ -106,7 +106,37 @@ The process should now conclude with a message indicating “Apply complete”, 
 ![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/82bba43bf5a46ef650003a0c92799bd0ef68b050/img/Screenshot%202025-02-14%20100742.png)
 
 
-## Step 3: Verify creation of AWS Lambda, AWS EventBridge, Amazon SNS and Amazon SQQ
+## Step 3: Verify creation of AWS Lambda, AWS EventBridge, Amazon SNS and Amazon SQS
+
+3.1.In the AWS Management Console, head to the Amazon EventBridge dashboard and verify that the rule was successfully created.
+
+![image_alt]()
+
+
+3.2.In the AWS Management Console, head to the Amazon SQS dashboard and verify that the OrderQueue was successfully created.
+
+![image_alt]()
+
+
+3.3.In the AWS Management Console, head to the Amazon Lambda dashboard and verify that the Order Function was successfully created
+
+![image_alt]()
+
+
+3.4.In the AWS Management Console, head to the Amazon DynamoDB dashboard and verify that the Order Table was successfully created
+
+![image_alt]()
+
+
+3.5.In the AWS Management Console, head to the Amazon SNS dashboard and verify that the Order Topic was successfully created and head to your local email and confirm the subscription
+
+![image_alt]()
+
+
+
+
+
+
 
 
 
