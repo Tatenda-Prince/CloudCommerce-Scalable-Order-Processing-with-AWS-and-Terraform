@@ -158,6 +158,31 @@ Where `event.json` contains:
 
 ```
 
+## Lets check out results
+
+1.DynamoBD Table 
+
+![image_alt]()
+
+
+
+2.Amazon SQS
+
+![image_alt]()
+
+
+
+3.Amazon SNS
+
+![image_alt]()
+
+
+
+4.CloudWatchLogs 
+
+![image_alt]()
+
+
 
 
 
