@@ -84,7 +84,7 @@ The command should generate a success message, confirming that it is valid, as d
 Terraform plan
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/4adcc54b9bdea54bda3b820a15d8074cfa56e420/img/Screenshot%202025-02-14%20100603.png)
 
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
