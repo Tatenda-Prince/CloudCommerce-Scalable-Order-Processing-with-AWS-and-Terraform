@@ -103,7 +103,7 @@ Terraform will initiate the process of applying all the changes to the infrastru
 
 The process should now conclude with a message indicating “Apply complete”, stating the total number of added, modified, and destroyed resources, accompanied by several resources.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/82bba43bf5a46ef650003a0c92799bd0ef68b050/img/Screenshot%202025-02-14%20100742.png)
 
 
 ## Step 3: Verify creation of AWS Lambda, AWS EventBridge, Amazon SNS and Amazon SQQ
