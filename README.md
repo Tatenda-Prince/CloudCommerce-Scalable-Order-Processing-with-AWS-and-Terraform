@@ -110,7 +110,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.1.In the AWS Management Console, head to the Amazon EventBridge dashboard and verify that the rule was successfully created.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/c972f30db68cd31d9f81e7da808f81601f940151/img/Screenshot%202025-02-14%20101240.png)
 
 
 3.2.In the AWS Management Console, head to the Amazon SQS dashboard and verify that the OrderQueue was successfully created.
