@@ -76,7 +76,7 @@ Terraform validate
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/894a8ffd0c83fb2664cadd51e8f8b5e81f85077e/img/Screenshot%202025-02-14%20100505.png)
 
 2.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
 
