@@ -130,7 +130,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.5.In the AWS Management Console, head to the Amazon SNS dashboard and verify that the Order Topic was successfully created and head to your local email and confirm the subscription
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/5bdca3a37128e895f63386b255b8b8486fa196ec/img/Screenshot%202025-02-14%20101544.png)
 
 
 
