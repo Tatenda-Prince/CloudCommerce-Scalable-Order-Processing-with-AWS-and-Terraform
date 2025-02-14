@@ -183,8 +183,30 @@ Where `event.json` contains:
 ![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/1830296da7928a0b258a61e969f77926f58f3ee5/img/Screenshot%202025-02-14%20110148.png)
 
 
+## Cleanup
+
+To remove all AWS resources created by Terraform:
+
+```language
+terraform destroy 
+
+```
 
 
+## Future Enhancements
+
+1.Add API Gateway for external order creation
+
+2.Implement AWS Step Functions for workflow orchestration
+
+3.Integrate Amazon SES for better email notifications
+
+4.Enhance security with IAM fine-grained permissions
+
+
+## Congratulations
+
+We have successfully created "CloudCommerce" to showcases best practices in serverless architecture, event-driven processing, and Infrastructure as Code. By leveraging AWS services, the system provides a scalable and resilient solution for e-commerce order processing. 
 
 
 
