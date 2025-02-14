@@ -168,7 +168,7 @@ Where `event.json` contains:
 
 2.Amazon SQS
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/0c9bbe902b11eb1d284d91718018993df3f0c728/img/Screenshot%202025-02-14%20105946.png)
 
 
 
