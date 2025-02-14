@@ -120,7 +120,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.3.In the AWS Management Console, head to the Amazon Lambda dashboard and verify that the Order Function was successfully created
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/417e3ce444c6f29a8def17051ae4e85f35a24e8a/img/Screenshot%202025-02-14%20101423.png)
 
 
 3.4.In the AWS Management Console, head to the Amazon DynamoDB dashboard and verify that the Order Table was successfully created
