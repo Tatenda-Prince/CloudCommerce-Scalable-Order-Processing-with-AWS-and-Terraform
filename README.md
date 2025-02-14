@@ -133,6 +133,32 @@ The process should now conclude with a message indicating “Apply complete”, 
 ![image_alt](https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform/blob/5bdca3a37128e895f63386b255b8b8486fa196ec/img/Screenshot%202025-02-14%20101544.png)
 
 
+## Step 4: Lets Test Our System if it is working
+
+4.1.We are going to use AWS CLI to trigger new order events.
+
+4.2.Send a test event to EventBridge using the AWS CLI:
+
+```language
+aws events put-events --entries file://event.json
+
+```
+
+
+Where `event.json` contains:
+
+```language
+[
+  {
+    "Source": "ecommerce.orders",
+    "DetailType": "OrderCreated",
+    "Detail": "{\"OrderId\": \"12345\", \"Product\": \"Laptop\", \"Quantity\": 1, \"Price\": 1200}"
+  }
+]
+
+```
+
+
 
 
 
