@@ -55,7 +55,7 @@ CloudCommerce is a serverless, event-driven order processing system built using 
 git clone https://github.com/Tatenda-Prince/CloudCommerce-Scalable-Order-Processing-with-AWS-and-Terraform.git
 ```
 
-## Step : Run Terraform workflow to initialize, validate, plan then apply
+## Step 2 : Run Terraform workflow to initialize, validate, plan then apply
 
 2.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
 
